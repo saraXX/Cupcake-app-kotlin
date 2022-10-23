@@ -24,3 +24,12 @@ Getting Started
 2. Download the sample.
 3. Import the sample into Android Studio.
 4. Build and run the sample.
+
+
+
+--------------------------------------------
+this project built using shared to be refrence to good practice coding :
+1. fragments and navigation components 
+2. shared view model and live data
+3. data binding 
+
